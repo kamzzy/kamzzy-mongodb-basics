@@ -1,0 +1,19 @@
+{
+  "name": "kamzzy-mongodb-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamzzy/kamzzy-mongodb-basics.git"
+  },
+  "author": "kamzzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamzzy/kamzzy-mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/kamzzy/kamzzy-mongodb-basics#readme"
+}
